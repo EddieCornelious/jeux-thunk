@@ -24,7 +24,7 @@ const config = {
   output: {
     path: __dirname + '/lib',
     filename: outputFile,
-    library: 'Jeux-Thunk',
+    library: 'JeuxThunk',
     libraryTarget: 'umd',
     umdNamedDefine: true
   },
