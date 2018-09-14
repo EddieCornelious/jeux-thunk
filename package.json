@@ -1,6 +1,6 @@
 {
   "name": "jeux-thunk",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "thunk middleware for jeux",
   "main": "lib/jeux-thunk.js",
   "scripts": {
